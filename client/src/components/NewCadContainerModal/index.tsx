@@ -35,7 +35,7 @@ export function NewCadContainerModal({isOpen, onRequestClose, callHandleGetConta
       category,
       state
     }
-    // console.log(buttonEditContainersCliked)
+
     callHandleGetContainers()
     if(buttonEditContainersCliked){
       await api.put('/container', data).catch(error => console.log("Ops! Ocorrey um erro" + error))
