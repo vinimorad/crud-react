@@ -2,7 +2,7 @@
 O desenvolvimento desse projeto faz parte de um processo seletivo de uma empresa, onde eu teria que desenvolver um **CRUD** utilizando qualquer tecnologia.  
 
 ## 🎨 Layout
-![Animação](https://user-images.githubusercontent.com/61718764/166164580-86a4802c-c9f8-422b-9ef0-d241bb39a997.gif)
+![Animação](https://user-images.githubusercontent.com/61718764/167228580-f18f8ce9-5d5f-423e-a85e-b63189b3abd7.gif)
 
 
 ## 🛠 Tecnologias
