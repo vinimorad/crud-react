@@ -3,7 +3,7 @@ O desenvolvimento desse projeto faz parte de um processo seletivo de uma empresa
 
 ## 🎨 Layout
 ![Animação](https://user-images.githubusercontent.com/61718764/167228580-f18f8ce9-5d5f-423e-a85e-b63189b3abd7.gif)
-
+ 
 
 ## 🛠 Tecnologias
 - [React](https://pt-br.reactjs.org/)
